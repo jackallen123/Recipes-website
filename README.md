@@ -1,4 +1,4 @@
-# odin-recipes
+# Recipes-website
 A simple recipes website using HTML
 
 Will use basic HTML skills to create a website
